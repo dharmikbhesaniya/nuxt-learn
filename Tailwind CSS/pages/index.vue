@@ -16,7 +16,7 @@ useHead({
     <h2 class="text-3xl font-bold text-blue-500">Welcome to Nuxt js 3</h2>
 
     <Input placeholder="Hello PrimeVue" />
-    <Button label="PrimeVue" class="bg-blue-500" />
+    <Button label="PrimeVue" />
 
     <Comp />
 </template>
