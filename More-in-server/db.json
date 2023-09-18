@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Lenovo Ideapad 3",
+      "description": "Best laptops for college students in 2023 Being a college student, you have to manage many things, your finances being the core to it. High-performance and portable, the Lenovo IdeaPad Gaming Laptop offers you the flexibility of use. It is suitable for on-the-go gaming because of its sleek and lightweight design, allowing you to bring your high-performance gaming system to your college, or on trips. ",
+      "price": 36000,
+      "ratings": 4.2,
+      "category": "laptop",
+      "company": "Lenovo"
+    },
+    {
+      "id": 2,
+      "name": "Iphone 14 Pro Max",
+      "description": "The most noticeable difference between the iPhone 14 Pro and iPhone 14 Pro Max is their screen sizes. This results in the iPhone 14 Pro Max having a larger 6.7-inch screen and a 4,323 mAh battery—the latter being an exact match compared to the iPhone 14 Plus.",
+      "price": 132000,
+      "ratings": 4,
+      "category": "laptop",
+      "company": "Apple"
+    },
+    {
+      "id": 3,
+      "name": "Samsung 4K LED Tv",
+      "description": "4K TV Resolution, Technology and Quality | Samsung MalaysiaA 4K TV is a TV set with 4K resolution. That means the TV has 3,840 horizontal pixels and 2,160 vertical pixels, for a total of about 8.3 million pixels.",
+      "price": 78000,
+      "ratings": 4.7,
+      "category": "laptop",
+      "company": "Samsung"
+    },
+    {
+      "id": 4,
+      "name": "Dell - Precision 3260 Compact",
+      "description": "Again, Dell edges out HP here in terms of performance, with marginally superior GPU and memory speeds. However, for this comparison, HP comes out on top due to its higher screen resolution.",
+      "price": 92000,
+      "ratings": 3.5,
+      "category": "desktop",
+      "company": "Dell"
+    },
+    {
+      "id": 5,
+      "name": "Lenovo Tab P12 Pro",
+      "description": "It has popularly been known for producing reliable and affordable devices. With that in mind, we've put together a list of Lenovo tablets worth buying. Tablets are great for watching movies, browsing the web and working on documents.",
+      "price": 15499,
+      "ratings": 2,
+      "category": "tablet",
+      "company": "Lenovo"
+    }
+  ]
+}
